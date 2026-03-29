@@ -123,6 +123,24 @@ section:nth-child(even) {
   transform: translateY(-1px);
 }
 
+.cta-secondary {
+  background: transparent;
+  color: #F2DC4A;
+  border: 2px solid #F2DC4A;
+}
+
+.cta-secondary:hover {
+  background: #F2DC4A;
+  color: #1a0c26;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .hero-meta {
   margin-top: 16px;
   font-size: 0.9rem;
