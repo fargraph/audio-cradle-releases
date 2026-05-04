@@ -26,7 +26,7 @@ html {
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  background: #331948;
+  background: #1a0c26;
   color: #D6C2AC;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -60,7 +60,7 @@ section {
 }
 
 section:nth-child(even) {
-  background: #1a0c26;
+  background: #331948;
 }
 
 /* ── Hero ─────────────────────────────────────────────── */
