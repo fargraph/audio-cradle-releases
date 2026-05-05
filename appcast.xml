@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Audio Cradle Updates</title>
+    <link>https://audiocradle.app/appcast.xml</link>
+    <description>Most recent updates to Audio Cradle.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.9.1</title>
+      <pubDate>Mon, 05 May 2026 15:00:00 -0400</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fargraph/audio-cradle-releases/releases/download/v0.9.1/AudioCradle-0.9.1.dmg"
+        sparkle:edSignature="MeBffNi02OZdQHHbL0Pk1G2tT/ziElRQXI7auD2R7NVd65GYOmvKES2KK2rTN8yUDpqC3lslTDp5XB2fVs77AA=="
+        length="6758786"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
