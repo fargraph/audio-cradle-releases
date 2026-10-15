@@ -6,6 +6,18 @@
     <description>Most recent updates to Audio Cradle.</description>
     <language>en</language>
     <item>
+      <title>Version 0.10.0</title>
+      <pubDate>Thu, 15 Oct 2026 10:45:57 -0400</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fargraph/audio-cradle-releases/releases/download/v0.10.0/AudioCradle-0.10.0-2df7280.dmg"
+        sparkle:edSignature="gYsW3ept10AVPTWy0hjB0/V+tYa7Um+bXTnzIpkOVMysx2ZBsHaLzasUdmO5WTQ3l+uvUDmP9dnv1J42ZeWKCQ=="
+        length="7289246"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.9.3</title>
       <pubDate>Fri, 04 Sep 2026 10:16:36 -0400</pubDate>
       <sparkle:version>7</sparkle:version>
